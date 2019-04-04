@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--<!DOCTYPE datasheet SYSTEM "data.dtd" >-->
+<!DOCTYPE datasheet [
+        <!ELEMENT datasheet (data)* >
+        <!ELEMENT data (x, y)>
+        <!ATTLIST data date CDATA #IMPLIED >
+        <!ELEMENT x (#PCDATA)>
+        <!ELEMENT y (#PCDATA)>
+
+        ]>
+
+<datasheet>
+
+    <data date="10.03.2015">
+        <x>2</x>
+        <y>6</y>
+    </data>
+
+    <data date="11.03.2015">
+        <x>3</x>
+        <y>8</y>
+    </data>
+
+    <data date="12.03.2015">
+        <x>4</x>
+        <y>10</y>
+    </data>
+
+    <data date="13.03.2015">
+        <x>5</x>
+        <y>12</y>
+    </data>
+
+    <data date="14.03.2015">
+        <x>6</x>
+        <y>14</y>
+    </data>
+
+    <data date="15.03.2015">
+        <x>7</x>
+        <y>16</y>
+    </data>
+
+    <data date="16.03.2015">
+        <x>8</x>
+        <y>18</y>
+    </data>
+
+</datasheet>

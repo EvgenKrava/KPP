@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><breakfast_menu>
+    <food>
+        <name>Бельгийские Вафли</name>
+        <price>$5.95</price>
+        <description>
+            две известных Бельгийских Вафли с обилием настоящего кленового сиропа
+        </description>
+        <calories>650</calories>
+   </food>
+    <food>
+        <name>Бельгийские Вафли с Земляникой</name>
+        <price>$7.95</price>
+        <description>
+            легкие Бельгийские вафли с земляникой, покрытые взбитыми сливками
+        </description>
+        <calories>900</calories>
+    </food>
+    <food>
+        <name>Бельгийские Вафли с Ягодами</name>
+        <price>$8.95</price>
+        <description>
+            легкие Бельгийские вафли с различными свежими ягодами, покрытые взбитыми сливками
+        </description>
+        <calories>900</calories>
+    </food>
+    <food>
+        <name>Французский Тост</name>
+        <price>$4.50</price>
+        <description>
+            толстые куски, сделанные из кусочков домашнего хлеба из опары
+        </description>
+        <calories>600</calories>
+    </food>
+    <food>
+        <name>Домашний Завтрак</name>
+        <price>$6.95</price>
+        <description>
+            пара яиц, бекон или колбаса, тост, и наши всегда популярные картофельные оладьи
+        </description>
+        <calories>950</calories>
+    </food>
+</breakfast_menu>

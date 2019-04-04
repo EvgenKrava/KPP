@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datasheet [
+        <!ELEMENT datasheet (data)* >
+        <!ELEMENT data (x, y)>
+        <!ATTLIST data date CDATA #IMPLIED >
+        <!ELEMENT x (#PCDATA)>
+        <!ELEMENT y (#PCDATA)>
+
+]>
