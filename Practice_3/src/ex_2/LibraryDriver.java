@@ -40,16 +40,12 @@ public class LibraryDriver implements Serializable {
         library.addBook(bookStore3,new Book(5,"Book5", 933, new Author("AuthorName5","AuthorSurname5")));
 
         System.out.println(library);
-        System.out.println(library.bookStores.size());
-        System.out.println(library.bookReaders.size());
-        System.out.println(library.bookStores.get(0).books.size());
+
 
         serializeObject("file2.bin", library);
         System.out.println("\n\n");
         Library o =(Library) deSerializeObject("file2.bin");
         System.out.println(o);
-        System.out.println(o.bookStores.size());
-        System.out.println(o.bookReaders.size());
-        System.out.println(o.bookStores.get(0).books.size());
+
     }
 }

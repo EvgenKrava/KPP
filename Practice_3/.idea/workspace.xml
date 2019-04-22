@@ -2,86 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf665158-06c5-4d5f-8b0a-9577cc82e772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/BookReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/LibraryDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/SerialVersionInspector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/BookReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/LibraryDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/BookReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/LibraryDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/libraries/xchart_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/Practice_4.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/DataHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/MyParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/data.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/point2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/set.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_4.1/src/main/java/set.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProbabilityTheory/src/M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_3/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_3/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_3/src/test/java/CalcculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.0/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.0/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.0/src/main/java/Logging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.0/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/libraries/log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/libraries/log4j_core_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/Practice_4.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/src/Logging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_4.1/src/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_5/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_5/src/main/java/file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QA/Practice_5/src/main/resources/file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/Beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/com/spring/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/com/spring/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryNumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryNumbers/src/RSA/RSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryNumbers/src/SimpleTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCardBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMetroMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMoneyOperationMetro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/GetMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/MetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/RemoveMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/ShowBalanceMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/CardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/PayMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/RemoveCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/ShowBalanceOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/StopOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCardBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/MetroServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/ResultImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/exp4j_0_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/xchart_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/HZ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/JFreeChartMainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/XChartMainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/Exp4jTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/JcmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/test-classes/Exp4jTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectMaven/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectMaven/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectMaven/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectMaven/src/test/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA/src/Practice_3/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheoryNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheoryNumbers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheoryNumbers/out/production/TheoryNumbers/euler/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheoryNumbers/src/euler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TheoryNumbers/src/euler/Eiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_2/LibraryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_2/LibraryDriver.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +64,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_2/Author.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_2/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="555">
               <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="method#Book#0;class#Book#0" />
@@ -134,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_2/BookStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+            <state relative-caret-position="-394">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
               <folding>
                 <element signature="method#BookStore#0;class#BookStore#0" />
                 <element signature="method#getBook#0;class#BookStore#0" />
@@ -150,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_2/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#742#743#0" expanded="true" />
@@ -163,7 +136,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_2/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
+            <state relative-caret-position="397">
               <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
               <folding>
                 <element signature="method#Library#0;class#Library#0" />
@@ -173,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex_2/LibraryDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+            <state relative-caret-position="323">
+              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -221,15 +194,16 @@
         <option value="$PROJECT_DIR$/src/ex_3/LibraryDriver.java" />
         <option value="$PROJECT_DIR$/src/ex_3/Author.java" />
         <option value="$PROJECT_DIR$/src/ex_3/Book.java" />
-        <option value="$PROJECT_DIR$/src/ex_2/LibraryDriver.java" />
         <option value="$PROJECT_DIR$/src/ex_2/BookStore.java" />
+        <option value="$PROJECT_DIR$/src/ex_2/LibraryDriver.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="683" />
-    <option name="height" value="743" />
+    <option name="x" value="683" />
+    <option name="y" value="27" />
+    <option name="width" value="673" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -252,6 +226,12 @@
               <item name="Practice_3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex_2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -264,6 +244,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552640845347" />
@@ -393,6 +374,7 @@
       <workItem from="1551885374780" duration="7515000" />
       <workItem from="1552630529815" duration="218000" />
       <workItem from="1552639433580" duration="1619000" />
+      <workItem from="1555676898679" duration="296000" />
     </task>
     <servers />
   </component>
@@ -405,12 +387,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36791000" />
+    <option name="totallyTimeSpent" value="37087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27954546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -662,30 +645,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_2/BookReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="method#BookReader#0;class#BookReader#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_2/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_2/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="555">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="method#Book#0;class#Book#0" />
@@ -702,16 +664,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_2/LibraryDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/ex_2/BookReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        <state relative-caret-position="345">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="method#BookReader#0;class#BookReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_2/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_2/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="397">
           <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
           <folding>
             <element signature="method#Library#0;class#Library#0" />
@@ -722,12 +698,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_2/BookStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        <state relative-caret-position="-394">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
           <folding>
             <element signature="method#BookStore#0;class#BookStore#0" />
             <element signature="method#getBook#0;class#BookStore#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_2/LibraryDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
         </state>
       </provider>
     </entry>

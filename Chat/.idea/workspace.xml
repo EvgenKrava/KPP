@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chat:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93050c2d-07bf-4519-894f-ff3f38d69ed3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Chat_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EDTInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIMessenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Messanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MessangerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UITasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCardBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/GetMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/MetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/RemoveMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/ShowBalanceMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/StopOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/server/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMetroCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/CardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/PayMoneyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/RemoveCardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/ShowBalanceOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/StopOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCardBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/MetroServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/ResultImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/ActiveUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/UDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_2/echoServer/ReceiverThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_2/echoServer/SenderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_2/echoServer/UDPEchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_2/echoServer/UDPEchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_2/echoServer/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/bulletinBoardService/MulticastSenderReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/bulletinBoardService/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/bulletinBoardService/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/bulletinBoardService/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/EDTInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/GUIMessenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/Messanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/MessangerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/MessangerImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_7/src/ex_3/gui/UITasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/exp4j_0_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/xchart_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/HZ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/JFreeChartMainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/XChartMainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/Exp4jTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/JcmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HZ/target/test-classes/Exp4jTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/META-INF/Practice_3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUIMessenger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EDTInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UITasks.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Messanger.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MessangerImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Messanger.java" />
+        <option value="$PROJECT_DIR$/src/MessangerImpl.java" />
+        <option value="$PROJECT_DIR$/src/UITasks.java" />
+        <option value="$PROJECT_DIR$/src/EDTInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/GUIMessenger.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chat" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chat" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chat" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="Chat_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Загрузки/jdk1.8.0_201/src.zip!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.Chat.jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chat.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Chat_jar/Chat.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Chat.jar" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93050c2d-07bf-4519-894f-ff3f38d69ed3" name="Default Changelist" comment="" />
+      <created>1555750590672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555750590672</updated>
+      <workItem from="1555750598877" duration="1442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1442000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Messanger.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessangerImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EDTInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITasks.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUIMessenger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Chat:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
