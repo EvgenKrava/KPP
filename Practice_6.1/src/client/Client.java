@@ -50,6 +50,8 @@ public class Client {
             objectOutputStream.writeObject(new StopOperation());
             objectOutputStream.flush();
             System.out.println(objectInputStream.readObject());
+            socket.close();
+
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -76,14 +78,21 @@ public class Client {
     }
 
     public static void main(String[] args) {
+        String serialNumber = "1488288";
         Client client = new Client("localhost", 7891);
-        AddMetroCardOperation addMetroCardOperation = new AddMetroCardOperation(new MetroCard("1488288", new User("Evgen", "Kravchenko", "M", "19.06.2000"), "HNU Karazina"));
-        client.request(addMetroCardOperation);
-        client.request(new AddMoneyOperation("1488288", 1000));
-        client.request(new ShowBalanceMetroCardOperation("1488288"));
-        client.request(new GetMoneyOperation("1488288", 200));
-        client.request(new ShowBalanceMetroCardOperation("1488288"));
-        client.request(new StopOperation());
-        client.finish();
+//        AddMetroCardOperation addMetroCardOperation = new AddMetroCardOperation(new MetroCard(serialNumber, new User("Evgen", "Kravchenko", "M", "19.06.2000"), "HNU Karazina"));
+//        client.request(addMetroCardOperation);
+////        client.request(new AddMoneyOperation(serialNumber, 1000));
+////        client.request(new ShowBalanceMetroCardOperation(serialNumber));
+////        client.request(new GetMoneyOperation(serialNumber, 200));
+////        client.request(new ShowBalanceMetroCardOperation(serialNumber));
+////        client.request(new StopOperation());
+////        client.finish();
+//        client.request(new ShowBalanceMetroCardOperation(serialNumber));
+//        client.finish();
+//        client.request(new AddMoneyOperation(serialNumber, 1000));
+//        client.finish();
+
+
     }
 }

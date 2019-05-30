@@ -2,96 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9614926-0d2f-4045-aa47-8c91517a17d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Chat/.idea/artifacts/Chat_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/EDTInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/GUIMessenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/Messanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/MessangerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chat/src/UITasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/MetroCardBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/AddMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/GetMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/MetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/RemoveMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/ShowBalanceMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/card/operations/StopOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/server/RequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6.1/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/CardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/PayMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/RemoveCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/ShowBalanceOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/StopOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Executable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCardBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/MetroServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/ResultImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/udpWork/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/udpWork/UDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1/udpWork/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/echoServer/ReceiverThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/echoServer/SenderThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/echoServer/UDPEchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/echoServer/UDPEchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2/echoServer/UDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/bulletinBoardService/MulticastSenderReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/bulletinBoardService/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/bulletinBoardService/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/bulletinBoardService/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/EDTInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/GUIMessenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/Messanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/MessangerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/MessangerImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3/gui/UITasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/exp4j_0_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/xchart_3_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/HZ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/JFreeChartMainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/XChartMainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/Exp4jTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/JcmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/test-classes/Exp4jTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/META-INF/Practice_3.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/out/production/Practice_6.1/gui/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6.1/src/gui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6.1/src/gui/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,17 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_3/gui/UITasks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="262">
+              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,45 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ex_3/gui/GUIMessenger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex_3/gui/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex_3/gui/EDTInvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -176,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/MulticastSenderReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
+            <state relative-caret-position="885">
               <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -188,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#98#99#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -199,27 +80,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/User1.java">
+        <entry file="file://$PROJECT_DIR$/src/ex_3/gui/Messanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/User2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="34" selection-start-line="3" selection-start-column="42" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -248,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/ex_1/udpWork/User.java" />
         <option value="$PROJECT_DIR$/src/ex_1/udpWork/UDPServer.java" />
         <option value="$PROJECT_DIR$/src/ex_1/udpWork/UDPClient.java" />
-        <option value="$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java" />
         <option value="$PROJECT_DIR$/src/ex_2/echoServer/ReceiverThread.java" />
         <option value="$PROJECT_DIR$/src/ex_2/echoServer/UDPServer.java" />
         <option value="$PROJECT_DIR$/src/ex_2/echoServer/UDPEchoServer.java" />
@@ -269,12 +132,13 @@
         <option value="$PROJECT_DIR$/src/ex_3/gui/MessangerImpl.java" />
         <option value="$PROJECT_DIR$/src/ex_3/gui/MessangerImpl1.java" />
         <option value="$PROJECT_DIR$/src/ex_3/gui/GUIMessenger.java" />
+        <option value="$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="25" />
-    <option name="width" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="673" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -296,6 +160,18 @@
               <item name="Practice_7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice_7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="udpWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="echoServer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice_7" type="b2602c69:ProjectViewProjectNode" />
@@ -330,6 +206,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -444,16 +324,18 @@
       <updated>1555697350876</updated>
       <workItem from="1555697876667" duration="15832000" />
       <workItem from="1555753079831" duration="558000" />
+      <workItem from="1556263162766" duration="1149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16390000" />
+    <option name="totallyTimeSpent" value="17539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="683" height="741" extended-state="4" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2919937" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24318182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -489,70 +371,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/UDPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/UDPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2929#2930#0" expanded="true" />
-            <element signature="e#2976#2977#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_2/echoServer/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -624,38 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/Messanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_3/gui/UITasksImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/UITasks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_3/gui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -677,30 +464,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/MulticastSenderReceiver.java">
+    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/GUIMessenger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state relative-caret-position="91">
+          <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/User1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
@@ -711,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/User2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="60">
           <caret line="4" column="34" selection-start-line="3" selection-start-column="42" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
@@ -720,14 +496,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/GUIMessenger.java">
+    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/ActiveUsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_1/udpWork/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/MulticastSenderReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/bulletinBoardService/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/Messanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/UITasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_3/gui/MessangerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

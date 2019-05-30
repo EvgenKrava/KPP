@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RegisteredConferees>
+    <Conferee>
+        <name>Evgen</name>
+        <surname>Kravchenko</surname>
+        <organization>Krazina</organization>
+        <report>report</report>
+        <email>evgen@gmail.com</email>
+    </Conferee>
+    <Conferee>
+        <name>Kate</name>
+        <surname>Melnikova</surname>
+        <organization>Karazina</organization>
+        <report>Krasotka</report>
+        <email>kate@gmail.com</email>
+    </Conferee>
+</RegisteredConferees>

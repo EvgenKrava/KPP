@@ -1,6 +1,7 @@
 package card.operations;
 
 import card.MetroCard;
+import card.MetroCardBank;
 
 public class AddMetroCardOperation extends MetroCardOperation {
     MetroCard metroCard;
@@ -15,5 +16,11 @@ public class AddMetroCardOperation extends MetroCardOperation {
 
     public void setMetroCard(MetroCard metroCard) {
         this.metroCard = metroCard;
+    }
+
+    @Override
+    public String operate(MetroCardBank metroCardBank) {
+        metroCardBank.addCard(metroCard);
+        return "Card added";
     }
 }

@@ -2,65 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f64097-d6b5-40f6-b6c0-4e21b66ead23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/MetroCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/MetroCardBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/MetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/card/operations/StopOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/RequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMetroCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/AddMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/CardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/PayMoneyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/RemoveCardOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/ShowBalanceOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/card/operations/StopOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/client/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/gui/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Executable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/interfaces/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/MetroCardBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/other/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/MetroServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_6/src/main/java/server/ResultImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/exp4j_0_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/libraries/xchart_3_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/HZ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/JFreeChartMainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/main/java/gui/XChartMainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/Exp4jTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/src/test/java/JcmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/classes/gui/XChartMainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HZ/target/test-classes/Exp4jTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/operations/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/client/ComputePi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/client/Pi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/compute/Compute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/compute/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/engine/ComputeEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/ex_2/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/ex_2/remote/Conferee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/ex_2/remote/ConfereeAdded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/ex_2/server/RegisterConferees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_8/src/ex_2/server/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/META-INF/Practice_3.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/out/production/Practice_3/ex_2/LibraryDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_3/src/ex_2/LibraryDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/AddMetroCardOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/AddMetroCardOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/AddMoneyOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/AddMoneyOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/GetMoneyOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/GetMoneyOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/MetroCardOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/MetroCardOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/RemoveMetroCardOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/RemoveMetroCardOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/ShowBalanceMetroCardOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/ShowBalanceMetroCardOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/StopOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/card/operations/StopOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/gui/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/server/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/server/RequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice_6.1/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice_6.1/server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/MetroCardOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/MetroCardOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/card/operations/StopOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/card/operations/StopOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/ActiveUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_7/src/ex_1/udpWork/ActiveUsers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,14 +57,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/client/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            <state relative-caret-position="415">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/card/operations/MetroCardOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -89,35 +81,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="345">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/card/User.java">
+        <entry file="file://$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#setBirthday#0;class#User#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="119" column="29" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#8111#8112#0" expanded="true" />
-                <element signature="e#8139#8140#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -125,10 +99,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/server/RequestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="78" column="127" selection-start-line="78" selection-start-column="127" selection-end-line="78" selection-end-column="127" />
+            <state relative-caret-position="495">
+              <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/card/operations/StopOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,23 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gui/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+            <state relative-caret-position="735">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,8 +163,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/card/MetroCardBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding>
                 <element signature="e#146#147#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -205,6 +180,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -220,24 +196,26 @@
         <option value="$PROJECT_DIR$/src/card/MetroCard.java" />
         <option value="$PROJECT_DIR$/src/card/MetroCardBank.java" />
         <option value="$PROJECT_DIR$/src/card/operations/CardOperation.java" />
+        <option value="$PROJECT_DIR$/src/card/operations/AddMoneyOperationMetro.java" />
+        <option value="$PROJECT_DIR$/src/gui/AddWindow.java" />
+        <option value="$PROJECT_DIR$/src/gui/Server.java" />
+        <option value="$PROJECT_DIR$/src/gui/Client.java" />
+        <option value="$PROJECT_DIR$/src/card/operations/Operation.java" />
+        <option value="$PROJECT_DIR$/src/card/operations/MetroCardOperation.java" />
         <option value="$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java" />
         <option value="$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java" />
-        <option value="$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java" />
-        <option value="$PROJECT_DIR$/src/card/operations/AddMoneyOperationMetro.java" />
         <option value="$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java" />
-        <option value="$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java" />
+        <option value="$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java" />
         <option value="$PROJECT_DIR$/src/card/operations/StopOperation.java" />
-        <option value="$PROJECT_DIR$/src/client/Client.java" />
-        <option value="$PROJECT_DIR$/src/server/Server.java" />
-        <option value="$PROJECT_DIR$/src/gui/Server.java" />
-        <option value="$PROJECT_DIR$/src/gui/AddWindow.java" />
-        <option value="$PROJECT_DIR$/src/gui/Client.java" />
         <option value="$PROJECT_DIR$/src/server/RequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java" />
+        <option value="$PROJECT_DIR$/src/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/client/Demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="673" />
     <option name="height" value="741" />
@@ -250,8 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,18 +263,14 @@
               <item name="Practice_6.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice_6.1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice_6.1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice_6.1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,7 +278,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice_3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -328,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.Client" />
       <module name="Practice_6.1" />
@@ -383,10 +355,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Server (1)" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -403,16 +375,20 @@
       <workItem from="1555661464849" duration="782000" />
       <workItem from="1555674161035" duration="19451000" />
       <workItem from="1555697232337" duration="617000" />
+      <workItem from="1556251387704" duration="4003000" />
+      <workItem from="1556282591903" duration="183000" />
+      <workItem from="1558325583915" duration="4648000" />
+      <workItem from="1558467354821" duration="321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20850000" />
+    <option name="totallyTimeSpent" value="30005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="7" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28181818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29090908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,6 +418,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,96 +432,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/StopOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/MetroCardOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/AddWindow.java" />
     <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1507">
           <caret line="1560" column="25" selection-start-line="1560" selection-start-column="25" selection-end-line="1560" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -561,22 +453,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="119" column="29" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
+        <state relative-caret-position="915">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#8111#8112#0" expanded="true" />
-            <element signature="e#8139#8140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/AddMetroCardOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/GetMoneyOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/RemoveMetroCardOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/MetroCardOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/AddMoneyOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/ShowBalanceMetroCardOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/server/RequestHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="78" column="127" selection-start-line="78" selection-start-column="127" selection-end-line="78" selection-end-column="127" />
+        <state relative-caret-position="495">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/card/operations/StopOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -608,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/server/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+        <state relative-caret-position="735">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -618,23 +598,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/card/MetroCardBank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

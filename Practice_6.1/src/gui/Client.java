@@ -69,6 +69,15 @@ public class Client {
         footer.setLayout(new FlowLayout());
 
 
+        connect = new JButton("Connect");
+        connect.addActionListener((e)->{
+            this.port = Integer.valueOf(portTextField.getText());
+            this.ipAddress = ipTextField.getText();
+            if(client==null)
+                client = new client.Client(ipAddress, port);
+        });
+        footer.add(connect);
+
         addMoney = new JButton("Add money");
         addMoney.addActionListener((e)->{
             addMoney();
@@ -131,10 +140,6 @@ public class Client {
 
 
     private void addCard(){
-        this.port = Integer.valueOf(portTextField.getText());
-        this.ipAddress = ipTextField.getText();
-        if(client==null)
-            client = new client.Client(ipAddress, port);
         frame.setEnabled(false);
         JFrame frame = new JFrame("Adding Card");
         frame.setResizable(false);

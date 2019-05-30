@@ -1,4 +1,4 @@
-package ex_2.server;
+package ex_2.remote;
 
 public class Conferee {
     private String name;
@@ -7,7 +7,7 @@ public class Conferee {
     private String reportTitle;
     private String email;
 
-    Conferee(String name, String familyName, String placeOfWork, String reportTitle, String email) {
+    public Conferee(String name, String familyName, String placeOfWork, String reportTitle, String email) {
         this.name = name;
         this.familyName = familyName;
         this.placeOfWork = placeOfWork;

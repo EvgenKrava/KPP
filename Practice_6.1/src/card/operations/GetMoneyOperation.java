@@ -1,5 +1,7 @@
 package card.operations;
 
+import card.MetroCardBank;
+
 public class GetMoneyOperation extends MetroCardOperation {
     String serialNumber;
     double money;
@@ -23,5 +25,12 @@ public class GetMoneyOperation extends MetroCardOperation {
 
     public void setMoney(double money) {
         this.money = money;
+    }
+
+    @Override
+    public String operate(MetroCardBank metroCardBank) {
+        if(metroCardBank.getMoney(serialNumber, money))
+        return "Money added";
+        else return "Money not added";
     }
 }

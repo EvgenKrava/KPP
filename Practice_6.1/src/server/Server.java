@@ -10,6 +10,7 @@ public class Server extends Thread{
     private MetroCardBank metroCardBank;
     private ServerSocket serverSocket;
     private int port = 8080;
+    private boolean work = true;
 
     public Server(){
         this.metroCardBank = new MetroCardBank();
@@ -22,10 +23,11 @@ public class Server extends Thread{
 
     @Override
     public void run() {
+        work = true;
         try {
             this.serverSocket = new ServerSocket(port);
             System.out.println("Server has started");
-            while (true){
+            while (work){
                 System.out.println("Waiting new client...");
                 Socket socket = serverSocket.accept();
                 System.out.println("New client:\t"+socket);
@@ -51,6 +53,6 @@ public class Server extends Thread{
     }
 
     public void finish() throws IOException {
-        serverSocket.close();
+        work = false;
     }
 }

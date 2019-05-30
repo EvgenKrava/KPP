@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 public class ActiveUsers implements Serializable {
+
     ArrayList<User> users;
 
     public ActiveUsers(){

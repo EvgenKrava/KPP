@@ -1,0 +1,1 @@
+javac -cp .\compute.jar server\*.java
